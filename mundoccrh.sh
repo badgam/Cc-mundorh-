@@ -1,7 +1,7 @@
 #!/system/xbin/bash
 
 clear
-git clone https://github.com/REAL593/module
+git clone https://hub.com/REAL593/module
 clear
 cd module
 cat baner.txt | lolcat
@@ -175,6 +175,7 @@ then
 clear
 figlet "MundoNetRH" | lolcat
 php cc-tn.php
+
 fi
 
 if [ $bro = 24 ] || [ $bro = 24 ]
