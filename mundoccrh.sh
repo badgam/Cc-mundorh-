@@ -5,7 +5,7 @@ git clone https://github.com/REAL593/module
 clear
 cd module
 cat baner.txt | lolcat
-python3 acceso.py
+python3 acceso.py"1"
 blue='\033[34;1m'
 green='\033[32;1m'  
 purple='\033[35;1m'
